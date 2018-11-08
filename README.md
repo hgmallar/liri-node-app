@@ -31,14 +31,17 @@
 
 #### do-what-it-says:
 * Example: **do-what-it-says**
-    * parses the information in random.txt and performs the commands on each line
-    [random.txt](https://github.com/hgmallar/liri-node-app/blob/master/images/random.txt "random.txt")
-
+    * parses the information in **random.txt** (as shown) and performs the commands on each line
+<br style="clear: both;" />
+<img src="https://github.com/hgmallar/liri-node-app/blob/master/images/random.PNG?raw=true"
+     alt="random.txt"
+     style="float: left; margin-right: 10px;" />
+<br style="clear: both;" /> 
 
 ### Results: 
 * Requires **dot-env**, **node-spotify-api**, **request**, and **moment** packages.
 * Uses **Bands In Town API** to get the data for concert-this.
 * Uses **Spotify API** to get the data for spotify-this-song.  
 * Uses **OMDB API** to get the data for movie-this.  
-* All inputs and outputs get logged into a file name **log.txt**.
-![log.txt](https://github.com/hgmallar/liri-node-app/blob/master/images/log.txt "log.txt")
+* All inputs and outputs get logged into a file name **log.txt**, for example . . .
+![log.txt](https://github.com/hgmallar/liri-node-app/blob/master/images/log.PNG?raw=true "log.txt")
