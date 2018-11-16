@@ -1,8 +1,8 @@
 # liri-node-app
 ## liri node app
 
-### Preview Demo at:
-[Video Demonstration Here](https://drive.google.com/file/d/18jORbpAmDrdgnWcPZ8Nb2pMgU_jcVw1n/view)
+### Preview Demo:
+![Video Demonstration Here](liri_video_demo.gif)
 
 ### Possible Inputs: 
 * concert-this Artist's Name
